@@ -15,3 +15,4 @@ apt-get install golang-go
 #apt-get install transmission-cli transmission-common transmission-daemon
 apt-get install dstat
 apt-get install glances
+apt-get install vim-nox
