@@ -16,3 +16,8 @@ apt-get install golang-go
 apt-get install dstat
 apt-get install glances
 apt-get install vim-nox
+#swift language
+apt-get install git cmake ninja-build clang python uuid-dev libicu-dev icu-devtools libbsd-dev libedit-dev libxml2-dev libsqlite3-dev swig libpython-dev libncurses5-dev pkg-config
+wget -q -O - https://swift.org/keys/all-keys.asc | gpg --import -
+#download swift from https://swift.org/download/#snapshots
+apt-get install bmon slurm tcptrack iftop nethogs
