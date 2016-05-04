@@ -1,2 +1,4 @@
 #!/bin/bash
-/usr/lib/nux/unity_support_test -p 
+
+#all checks must be green
+/usr/lib/nux/unity_support_test -p
