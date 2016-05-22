@@ -13,3 +13,8 @@ Packages
 * #project-plus
 * git-plus
 * remote-edit
+* markdown-preview 
+* #markdown-preview-plus
+* markdown-writer
+* language-groovy
+* native-ui (osx)
