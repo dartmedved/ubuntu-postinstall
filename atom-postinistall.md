@@ -18,3 +18,5 @@ Packages
 * markdown-writer
 * language-groovy
 * native-ui (osx)
+* highlights
+* language-gfm
