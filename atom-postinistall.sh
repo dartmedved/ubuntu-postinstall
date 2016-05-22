@@ -12,9 +12,9 @@ apm install fonts
 #apm install project-plus
 apm install git-plus
 apm install remote-edit
-apm install markdown-preview 
+#apm install markdown-preview 
 #apm install markdown-preview-plus
 apm install markdown-writer
 apm install language-groovy
 #apm install native-ui (osx)
-apm install language-gfm
+#apm install language-gfm
