@@ -18,3 +18,8 @@ apm install markdown-writer
 apm install language-groovy
 #apm install native-ui (osx)
 #apm install language-gfm
+
+#go dependencies
+apm install go-plus
+apm install autocomplete-go
+
