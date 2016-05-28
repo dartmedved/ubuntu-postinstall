@@ -18,6 +18,7 @@ apt-get install vim-nox
 apt-get install bmon slurm tcptrack iftop nethogs
 apt-get install taskwarrior
 apt-get install galculator
+apt-get install gocode
 
 #swift language (very buggy under ubuntu 15.10)
 #apt-get install git cmake ninja-build clang python uuid-dev libicu-dev icu-devtools libbsd-dev libedit-dev libxml2-dev libsqlite3-dev swig libpython-dev libncurses5-dev pkg-config
