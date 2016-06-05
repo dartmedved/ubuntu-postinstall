@@ -1,27 +1,27 @@
 #!/bin/bash
-apt-get p7zip-full mc htop iotop
-apt-get git mercurial subversion
-apt-get install ubuntu-restricted-extras
-apt-get install unzip unrar 
-apt-get install ruby ruby-dev
-apt-get install openssh-server
-apt-get install openjdk-8-jdk
-apt-get install ffmpeg gstreamer-tools
-apt-get install mplayer2
-apt-get install libzen0v5
-apt-get install libmediainfo0v5
-apt-get install vlc
-apt-get install golang-go
-apt-get install dstat
-apt-get install glances
-apt-get install vim-nox
-apt-get install bmon slurm tcptrack iftop nethogs
-apt-get install taskwarrior
-apt-get install galculator
+apt-get -y install p7zip-full mc htop iotop
+apt-get -y install git mercurial subversion
+apt-get -y install ubuntu-restricted-extras
+apt-get -y install unzip unrar 
+apt-get -y install ruby ruby-dev
+apt-get -y install openssh-server
+apt-get -y install openjdk-8-jdk
+apt-get -y install ffmpeg gstreamer-tools
+apt-get -y install mplayer2
+apt-get -y install libzen0v5
+apt-get -y install libmediainfo0v5
+apt-get -y install vlc
+apt-get -y install golang-go
+apt-get -y install dstat
+apt-get -y install glances
+apt-get -y install vim-nox
+apt-get -y install bmon slurm tcptrack iftop nethogs
+apt-get -y install taskwarrior
+apt-get -y install galculator
 
 #go tools
-apt-get install gocode
-apt-get install golang-golang-x-tools
+apt-get -y install gocode
+apt-get -y install golang-golang-x-tools
 
 #swift language (very buggy under ubuntu 15.10)
 #apt-get install git cmake ninja-build clang python uuid-dev libicu-dev icu-devtools libbsd-dev libedit-dev libxml2-dev libsqlite3-dev swig libpython-dev libncurses5-dev pkg-config
@@ -29,4 +29,4 @@ apt-get install golang-golang-x-tools
 #download swift from https://swift.org/download/#snapshots
 
 #dlna server specific
-#apt-get install transmission-cli transmission-common transmission-daemon
+#apt-get -y install transmission-cli transmission-common transmission-daemon
