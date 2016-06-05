@@ -19,6 +19,7 @@ apt-get -y install vim-nox
 apt-get -y install bmon slurm tcptrack iftop nethogs
 apt-get -y install taskwarrior
 apt-get -y install galculator
+apt-get -y install pwgen
 
 #go tools
 apt-get -y install gocode
