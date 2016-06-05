@@ -2,6 +2,7 @@
 apt-get -y install p7zip-full mc htop iotop
 apt-get -y install git mercurial subversion
 apt-get -y install ubuntu-restricted-extras
+apt-get -y install python3
 apt-get -y install unzip unrar 
 apt-get -y install ruby ruby-dev
 apt-get -y install openssh-server
