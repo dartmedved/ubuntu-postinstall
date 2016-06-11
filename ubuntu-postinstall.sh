@@ -26,9 +26,9 @@ apt-get -y install gocode
 apt-get -y install golang-golang-x-tools
 
 #terminal emulators
-apt-get install terminator
+apt-get -y install terminator
 #apt-get install tilda
-apt-get install guake 
+apt-get -y install guake 
 
 #swift language (very buggy under ubuntu 15.10)
 #apt-get install git cmake ninja-build clang python uuid-dev libicu-dev icu-devtools libbsd-dev libedit-dev libxml2-dev libsqlite3-dev swig libpython-dev libncurses5-dev pkg-config
