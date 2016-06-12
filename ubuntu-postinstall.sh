@@ -20,6 +20,7 @@ apt-get -y install bmon slurm tcptrack iftop nethogs
 apt-get -y install taskwarrior
 apt-get -y install galculator
 apt-get -y install pwgen
+apt -y install w3m
 
 #go tools
 apt-get -y install gocode
