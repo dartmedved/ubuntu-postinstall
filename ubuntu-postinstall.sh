@@ -1,4 +1,5 @@
 #!/bin/bash
+apt -y install curl wget w3m
 apt-get -y install p7zip-full mc htop iotop
 apt-get -y install git mercurial subversion
 apt-get -y install ubuntu-restricted-extras
