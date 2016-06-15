@@ -4,6 +4,7 @@ npm install -g grunt-cli
 npm install -g bower 
 npm install -g gulp 
 npm install -g generator-jhipster
+npm install -g typescript
 
 #6.0.0 modules update
 npm install -g graceful-fs@^4.0.0 
