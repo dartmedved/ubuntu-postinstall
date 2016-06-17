@@ -1,4 +1,5 @@
 #!/bin/bash
+apt update && apt upgrade
 apt -y install curl wget w3m
 apt -y install p7zip-full mc htop iotop
 apt -y install git mercurial subversion
