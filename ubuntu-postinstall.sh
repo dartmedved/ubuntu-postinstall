@@ -23,6 +23,7 @@ apt -y install taskwarrior
 apt -y install galculator
 apt -y install pwgen
 apt -y install w3m
+apt -y install vlock
 
 #go tools
 apt -y install gocode
