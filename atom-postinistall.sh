@@ -10,8 +10,7 @@ apm install minimap-pigments
 apm install file-icons
 apm install fonts
 #apm install project-plus
-#apm install git-plus
-apm install remote-edit
+apm install git-plus
 #apm install markdown-preview 
 #apm install markdown-preview-plus
 apm install markdown-writer
