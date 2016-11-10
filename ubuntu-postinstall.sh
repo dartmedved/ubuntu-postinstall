@@ -46,4 +46,4 @@ apt -y install atom
 #apt -y install transmission-cli transmission-common transmission-daemon
 
 #cleanup 
-apt autoremove
+apt -y autoremove
