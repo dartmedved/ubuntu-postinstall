@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt update
+
 apt -y install ccze 
 apt -y install dstat
 apt -y install nmon
