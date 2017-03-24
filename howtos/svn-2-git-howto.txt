@@ -81,5 +81,18 @@ git svn clone http://yourcompany.com/path/to/svn/project-abc project-abc
 
 
 
+up vote
+170
+down vote
+Cleanly Migrate Your Subversion Repository To a Git Repository. First you have to create a file that maps your Subversion commit author names to Git commiters, say ~/authors.txt:
+
+jmaddox = Jon Maddox <jon@gmail.com>
+bigpappa = Brian Biggs <bigpappa@gmail.com>
+Then you can download the Subversion data into a Git repository:
+
+mkdir repo && cd repo
+git svn init http://subversion/repo --no-metadata
+git config svn.authorsfile ~/authors.txt
+git svn fetch
 
 
