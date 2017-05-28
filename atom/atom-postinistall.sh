@@ -20,5 +20,5 @@ apm install language-groovy
 
 #go dependencies
 apm install go-plus
-apm install autocomplete-go
+#apm install autocomplete-go
 
